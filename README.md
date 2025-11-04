@@ -3,3 +3,5 @@ This project dynamically updates a website depending on the information you give
 It displays the name of the blog, information about it, and the date it was published.
 
 The App.jsx file uses components from the Header.jsx file, the About.jsx file, and the ArticleList.jsx file that uses a component from the Article.jsx file.
+
+<img width="1920" height="1080" alt="Blog Lab" src="https://github.com/user-attachments/assets/ef1cbfe5-521d-4341-9815-b174467b256a" />
